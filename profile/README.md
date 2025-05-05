@@ -5,9 +5,9 @@
 ### *Incentivizing Open Source with Automated Blockchain Rewards*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/smartmerge/smartmerge.svg)](https://github.com/SmartMerge/Main/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/smartmerge/smartmerge.svg)](https://github.com/SmartMerge/Main/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/smartmerge/smartmerge.svg)](https://github.com/SmartMerge/Main/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/smartmerge/smartmerge.svg)](https://github.com/SmartMerge/.github/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/smartmerge/smartmerge.svg)](https://github.com/SmartMerge/.github/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/smartmerge/smartmerge.svg)](https://github.com/SmartMerge/.github/pulls)
 
 
 **Connecting developers to funded open source projects with instant, automated rewards**
